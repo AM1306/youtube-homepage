@@ -8,16 +8,15 @@
   margin-bottom: 50px;
   background-color: white;
 
-  position:fixed;
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
 
   border-bottom-width: 1px;
-  border-bottom-style: solid ;
+  border-bottom-style: solid;
   border-bottom-color: rgb(230, 225, 225);
-  z-index:1;
-
+  z-index: 1;
 }
 
 /* LEFT SECTION */
@@ -25,7 +24,7 @@
   display: flex;
   align-items: center;
   width: 180px;
-  padding-left:15px;
+  padding-left: 15px;
 }
 
 .menu {
@@ -115,20 +114,19 @@
 .myChannel-icon {
   height: 30px;
   background-color: rgb(68, 66, 66);
-
 }
-.bell-icon{
+.bell-icon {
   position: relative;
 }
-.notification-count{
+.notification-count {
   position: absolute;
-  top: -2px;               
-  right: -4px;             
+  top: -2px;
+  right: -4px;
   background-color: rgb(200, 0, 0);
   color: white;
   font-family: Roboto, Arial, sans-serif;
-  font-size: 11px;         
+  font-size: 11px;
   font-weight: bold;
-  border-radius: 10px;    
+  border-radius: 10px;
   padding: 1px 5px;
 }
