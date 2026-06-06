@@ -7,6 +7,16 @@
   padding: 0 16px;
   margin-bottom: 50px;
   background-color: white;
+
+  position:fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  border-bottom-width: 1px;
+  border-bottom-style: solid ;
+  border-bottom-color: rgb(230, 225, 225)
+
 }
 
 /* LEFT SECTION */
