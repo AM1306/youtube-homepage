@@ -1,0 +1,15 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    bottom:0;
+    left: 0;
+    width: 60px;
+    top: 56px;
+    position: fixed;
+    background-color: white;
+}
+.sidebar img{
+    height: 40px;
+    margin-bottom: 35px;
+    margin-top: 15px;
+}
