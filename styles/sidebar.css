@@ -8,6 +8,8 @@
   width: 72px;
   background-color: white;
   padding-top: 4px;
+  z-index: 2;
+  padding-left: 10px;
 }
 
 .sidebar-link {
